@@ -30,3 +30,5 @@ class Cipher
     get_shift(gets.chomp)
   end
 end
+
+# rubocop:enable Naming/FileName
